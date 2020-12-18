@@ -1,4 +1,4 @@
-package mian.java.com.zpy.learn.Single;
+package mian.java.com.zpy.learn.single;
 
 /**
  * @author zhao peng yu

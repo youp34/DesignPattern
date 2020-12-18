@@ -2,12 +2,66 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7a733f8-85c8-46cc-9894-0c0395ffaa28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/mian/java/com/zpy/learn/Single/EnumSingle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mian/java/com/zpy/learn/Single/Hungry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mian/java/com/zpy/learn/Single/Lazy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mian/java/com/zpy/learn/Single/SingleThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mian/java/com/zpy/learn/Single/StaticSingle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/mian/java/com/zpy/learn/Single/EnumSingle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/mian/java/com/zpy/learn/Single/StaticSingle$Single1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/mian/java/com/zpy/learn/Single/StaticSingle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/mian/java/com/zpy/learn/factory/abstract1/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/mian/java/com/zpy/learn/factory/abstract1/common/IPhone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/mian/java/com/zpy/learn/factory/abstract1/common/IRouter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/mian/java/com/zpy/learn/factory/abstract1/factory/HuaweiFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/mian/java/com/zpy/learn/factory/abstract1/factory/ProductFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/mian/java/com/zpy/learn/factory/abstract1/factory/XiaomiFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/mian/java/com/zpy/learn/factory/abstract1/huawei/HuaweiPhone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/mian/java/com/zpy/learn/factory/abstract1/huawei/HuaweiRouter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/mian/java/com/zpy/learn/factory/abstract1/xiaomi/XiaomiPhone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/mian/java/com/zpy/learn/factory/abstract1/xiaomi/XiaomoRouter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/mian/java/com/zpy/learn/factory/method/Apple.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/mian/java/com/zpy/learn/factory/method/AppleFruitFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/mian/java/com/zpy/learn/factory/method/Banana.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/mian/java/com/zpy/learn/factory/method/BananaFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/mian/java/com/zpy/learn/factory/method/Fruit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/mian/java/com/zpy/learn/factory/method/FruitFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/mian/java/com/zpy/learn/factory/method/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/mian/java/com/zpy/learn/factory/simple/Angkesaila.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/mian/java/com/zpy/learn/factory/simple/Atezi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/mian/java/com/zpy/learn/factory/simple/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/mian/java/com/zpy/learn/factory/simple/CarFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/mian/java/com/zpy/learn/factory/simple/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/abstract1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/abstract1/common/IPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/abstract1/common/IRouter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/abstract1/factory/HuaweiFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/abstract1/factory/ProductFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/abstract1/factory/XiaomiFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/abstract1/huawei/HuaweiPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/abstract1/huawei/HuaweiRouter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/abstract1/xiaomi/XiaomiPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/abstract1/xiaomi/XiaomoRouter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/method/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/method/AppleFruitFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/method/Banana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/method/BananaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/method/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/method/FruitFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/method/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/simple/Angkesaila.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/simple/Atezi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/simple/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/simple/CarFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/simple/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/mian/java/com/zpy/learn/Single/Hungry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/mian/java/com/zpy/learn/Single/Hungry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/mian/java/com/zpy/learn/Single/Lazy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/mian/java/com/zpy/learn/Single/Lazy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/mian/java/com/zpy/learn/Single/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/mian/java/com/zpy/learn/Single/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/mian/java/com/zpy/learn/Single/Main1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/mian/java/com/zpy/learn/Single/Main1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/mian/java/com/zpy/learn/Single/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/mian/java/com/zpy/learn/Single/Main2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/mian/java/com/zpy/learn/Single/SingleThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/mian/java/com/zpy/learn/Single/SingleThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mian/java/com/zpy/learn/Single/EnumSingle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mian/java/com/zpy/learn/single/EnumSingle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mian/java/com/zpy/learn/Single/Hungry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mian/java/com/zpy/learn/single/Hungry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mian/java/com/zpy/learn/Single/Lazy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mian/java/com/zpy/learn/single/Lazy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mian/java/com/zpy/learn/Single/SingleThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mian/java/com/zpy/learn/single/SingleThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mian/java/com/zpy/learn/Single/StaticSingle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mian/java/com/zpy/learn/single/StaticSingle.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,88 +71,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mian/java/com/zpy/learn/principle_oop/Oop.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mian/java/com/zpy/learn/Single/Hungry.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="564">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
-              <folding>
-                <element signature="e#345#346#0" expanded="true" />
-                <element signature="e#376#377#0" expanded="true" />
-                <element signature="e#407#408#0" expanded="true" />
-                <element signature="e#434#435#0" expanded="true" />
-                <element signature="e#399#400#0" expanded="true" />
-                <element signature="e#421#422#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mian/java/com/zpy/learn/Single/Lazy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="45" column="30" lean-forward="true" selection-start-line="45" selection-start-column="30" selection-end-line="45" selection-end-column="30" />
-              <folding>
-                <element signature="e#271#272#0" expanded="true" />
-                <element signature="e#307#308#0" expanded="true" />
-                <element signature="e#494#495#0" expanded="true" />
-                <element signature="e#521#522#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mian/java/com/zpy/learn/Single/SingleThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="54" selection-start-line="54" selection-end-line="54" />
-              <folding>
-                <element signature="e#287#288#0" expanded="true" />
-                <element signature="e#308#309#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mian/java/com/zpy/learn/Single/EnumSingle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="e#245#246#0" expanded="true" />
-                <element signature="e#276#277#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/mian/java/com/zpy/learn/Single/StaticSingle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -116,6 +94,30 @@
         <option value="$PROJECT_DIR$/src/mian/java/com/zpy/learn/Single/Enum.java" />
         <option value="$PROJECT_DIR$/src/mian/java/com/zpy/learn/Single/EnumSingle.java" />
         <option value="$PROJECT_DIR$/src/mian/java/com/zpy/learn/Single/StaticSingle.java" />
+        <option value="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/SimpleFactory.java" />
+        <option value="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/simple/SimpleFactory.java" />
+        <option value="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/simple/Car.java" />
+        <option value="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/simple/Atezi.java" />
+        <option value="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/simple/Angkesaila.java" />
+        <option value="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/simple/CarFactory.java" />
+        <option value="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/simple/Test.java" />
+        <option value="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/method/Fruit.java" />
+        <option value="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/method/Apple.java" />
+        <option value="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/method/Banana.java" />
+        <option value="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/method/FruitFactory.java" />
+        <option value="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/method/AppleFruitFactory.java" />
+        <option value="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/method/BananaFactory.java" />
+        <option value="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/method/Test.java" />
+        <option value="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/abstract1/common/IRouter.java" />
+        <option value="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/abstract1/common/IPhone.java" />
+        <option value="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/abstract1/huawei/HuaweiPhone.java" />
+        <option value="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/abstract1/huawei/HuaweiRouter.java" />
+        <option value="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/abstract1/xiaomi/XiaomiPhone.java" />
+        <option value="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/abstract1/xiaomi/XiaomoRouter.java" />
+        <option value="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/abstract1/factory/ProductFactory.java" />
+        <option value="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/abstract1/factory/HuaweiFactory.java" />
+        <option value="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/abstract1/factory/XiaomiFactory.java" />
+        <option value="$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/abstract1/Test.java" />
       </list>
     </option>
   </component>
@@ -139,62 +141,6 @@
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mian" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mian" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mian" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mian" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="zpy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mian" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="zpy" type="462c0819:PsiDirectoryNode" />
-              <item name="learn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mian" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="zpy" type="462c0819:PsiDirectoryNode" />
-              <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="Single" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -204,7 +150,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1608114756748" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1608284528509" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../miaosha" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -222,26 +168,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main2">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mian.java.com.zpy.learn.Single.Main" />
-      <module name="DesignPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mian.java.com.zpy.learn.Single.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Test (2)">
     <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mian.java.com.zpy.learn.Single.Main1" />
+      <option name="MAIN_CLASS_NAME" value="mian.java.com.zpy.learn.single.Main1" />
       <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mian.java.com.zpy.learn.Single.*" />
+          <option name="PATTERN" value="mian.java.com.zpy.learn.single.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -250,11 +183,50 @@
       </method>
     </configuration>
     <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mian.java.com.zpy.learn.Single.Main2" />
+      <option name="MAIN_CLASS_NAME" value="mian.java.com.zpy.learn.single.Main2" />
       <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mian.java.com.zpy.learn.Single.*" />
+          <option name="PATTERN" value="mian.java.com.zpy.learn.single.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mian.java.com.zpy.learn.factory.method.Test" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mian.java.com.zpy.learn.factory.method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mian.java.com.zpy.learn.factory.abstract1.Test" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mian.java.com.zpy.learn.factory.abstract1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mian.java.com.zpy.learn.factory.simple.Test" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mian.java.com.zpy.learn.factory.simple.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -264,9 +236,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Main1" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -285,18 +259,19 @@
       <updated>1607941717935</updated>
       <workItem from="1607941723370" duration="1856000" />
       <workItem from="1608023891393" duration="4476000" />
-      <workItem from="1608102320171" duration="6960000" />
+      <workItem from="1608102320171" duration="7364000" />
+      <workItem from="1608197941607" duration="8947000" />
+      <workItem from="1608282694864" duration="1818000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13292000" />
+    <option name="totallyTimeSpent" value="24461000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="53" width="1456" height="886" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23782235" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24498567" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -304,20 +279,20 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Alibaba Cloud Explorer" order="7" />
-      <window_info anchor="bottom" id="Messages" weight="0.32978722" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23271276" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3550532" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32978722" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32978722" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Alibaba Cloud View" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32978722" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -336,14 +311,53 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/mian/java/com/zpy/learn/principle_oop/Oop.java">
+    <entry file="file://$PROJECT_DIR$/src/mian/java/com/zpy/learn/single/StaticSingle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+        <state relative-caret-position="391">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+          <folding>
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mian/java/com/zpy/learn/Single/Hungry.java">
+    <entry file="file://$PROJECT_DIR$/src/mian/java/com/zpy/learn/single/EnumSingle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mian/java/com/zpy/learn/single/SingleThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mian/java/com/zpy/learn/single/Lazy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="45" column="30" lean-forward="true" selection-start-line="45" selection-start-column="30" selection-end-line="45" selection-end-column="30" />
+          <folding>
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mian/java/com/zpy/learn/single/Hungry.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="564">
           <caret line="30" selection-start-line="30" selection-end-line="30" />
@@ -358,45 +372,261 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mian/java/com/zpy/learn/Single/Lazy.java">
+    <entry file="file://$PROJECT_DIR$/src/mian/java/com/zpy/learn/principle_oop/Oop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="45" column="30" lean-forward="true" selection-start-line="45" selection-start-column="30" selection-end-line="45" selection-end-column="30" />
+        <state relative-caret-position="414">
+          <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/simple/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
           <folding>
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-            <element signature="e#494#495#0" expanded="true" />
-            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mian/java/com/zpy/learn/Single/SingleThread.java">
+    <entry file="file://$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/simple/Atezi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        <state relative-caret-position="230">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
           <folding>
-            <element signature="e#287#288#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mian/java/com/zpy/learn/Single/EnumSingle.java">
+    <entry file="file://$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/simple/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/simple/CarFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/simple/Angkesaila.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/method/Banana.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/method/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          <folding>
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/method/Fruit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/method/AppleFruitFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/method/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram/C:/Users/zhao peng yu/Desktop/DesignPattern/src/mian/java/com/zpy/learn/factory/method">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/method</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.4000000000000004" x="378.0" y="324.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/method/FruitFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/method/BananaFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
           <folding>
-            <element signature="e#245#246#0" expanded="true" />
-            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mian/java/com/zpy/learn/Single/StaticSingle.java">
+    <entry file="file://$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/abstract1/common/IPhone.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="230">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/abstract1/factory/HuaweiFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#473#474#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/abstract1/factory/XiaomiFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#473#474#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/abstract1/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="18" column="57" selection-start-line="18" selection-start-column="57" selection-end-line="18" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/abstract1/common/IRouter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/abstract1/factory/ProductFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/abstract1/huawei/HuaweiPhone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/abstract1/huawei/HuaweiRouter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+          <folding>
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/abstract1/xiaomi/XiaomiPhone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+          <folding>
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mian/java/com/zpy/learn/factory/abstract1/xiaomi/XiaomoRouter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
